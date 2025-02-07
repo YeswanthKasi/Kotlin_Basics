@@ -1,2 +1,2 @@
-var name = "John"
-val birthyear = 1975
+var name = "Yeswanth"
+val birthyear = 2003
